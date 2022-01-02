@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+img {
+  margin-bottom: 40px;
+}
+
+.one {
+  background: #683ca5;
+}
+.two {
+  text-align: center;
+}
+
+.instaback {
+  background-color: white;
+}
+.textcenter {
+  text-align: center;
+}
+
+.profilepicture {
+  width: 100%;
+}
+
+.fullwidth {
+  width: 100%;
+}
+
+.halfwidth {
+  width: 85%;
+}
